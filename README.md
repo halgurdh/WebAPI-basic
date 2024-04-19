@@ -1,7 +1,7 @@
 # budgetAPI-react-dotnet
 
 ## About
-API in as Back-end, ReactJS as Front-end. Budget APP CRUD operations for Expensens and Income.
+API in as Back-end. Budget APP CRUD operations for Expensens and Income.
 
 This project is still in the making and not finished, I would like to build more functoinality in the future.
 
